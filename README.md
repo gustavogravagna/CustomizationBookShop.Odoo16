@@ -5,6 +5,5 @@
 
 Odoo
 ----
-![](https://github.com/gustavogravagna/StudentRegistrationApp.ReactJs-Firebase/blob/main/1.png)
-
+https://github.com/gustavogravagna/CustomizationBookShop.Odoo16/blob/main/1.png
 
