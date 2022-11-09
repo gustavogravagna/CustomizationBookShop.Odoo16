@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<odoo>
+    <record id="categoria_modulo_libreria" model="ir.module.category">
+        <field name="name">Libreria</field>
+    </record>
+    <record id="libreria_group_user" model="res.groups">
+        <field name="name">Usuario</field>
+        <field name="category_id" ref="categoria_modulo_libreria"/>
+        <field name="implied_ids" eval="[(4, ref('base.group_user'))]"/>
+
+    </record>
+</odoo>

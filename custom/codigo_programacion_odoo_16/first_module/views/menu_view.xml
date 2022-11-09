@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+
+<odoo>
+
+    <record id="libros_action" model="ir.actions.act_window">
+        <field name="name">Libros disponibles en sucursal</field>
+        <field name="res_model">libros</field>
+        <field name="view_mode">tree,form,kanban</field>
+
+
+    </record>
+        <record id="autores_action" model="ir.actions.act_window">
+        <field name="name">Autores</field>
+        <field name="res_model">autor</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+
+
+    <menuitem name="Mi Libreria" id="libreria_menu"/>
+    <menuitem name="Libros" id="libros_menu" parent="libreria_menu" action="libros_action"/>
+    <menuitem name="Autores" id="autores_menu" parent="libreria_menu" action="autores_action"/>
+</odoo>

@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_libros_user,Acceso a libros,model_libros,libreria_group_user,1,1,1,1
+access_autor_user,Acceso a autores,model_autor,libreria_group_user,1,1,1,1
