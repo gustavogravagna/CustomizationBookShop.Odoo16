@@ -15,6 +15,8 @@ Odoo
 ![](https://github.com/gustavogravagna/CustomizationBookShop.Odoo16/blob/main/8.png)
 ![](https://github.com/gustavogravagna/CustomizationBookShop.Odoo16/blob/main/9.png)
 ![](https://github.com/gustavogravagna/CustomizationBookShop.Odoo16/blob/main/10.png)
+![](https://github.com/gustavogravagna/CustomizationBookShop.Odoo16/blob/main/11.png)
+
 
 
 
